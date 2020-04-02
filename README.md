@@ -29,3 +29,4 @@ Navigate to the Configuration page and open Email Settings section. Set "Mailket
         * Complaint
         * Unsubscribed
         * Blocked
+        
